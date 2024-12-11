@@ -1,5 +1,8 @@
 # Banking Data Analysis Project | Power BI
 
+![banking_summary](https://github.com/user-attachments/assets/2bc85662-cfb2-4104-b418-deba3797c71b)
+
+
 ![customer_income_2](https://github.com/user-attachments/assets/8779aa12-e863-4fb2-9ee4-381c2cc3c9e1)
 
 
@@ -51,14 +54,16 @@ A fascinating insight into whether higher income correlates with higher credit c
 This report explores whether there’s any significant relationship between the number of properties owned by clients and their risk weighting. This analysis can help the bank in its risk management strategies.
 
 **⚙️ DAX Measures and Functions Used**
+
+
 In this project, we leveraged several powerful DAX functions to manipulate the data and generate meaningful insights:
 
-*CALCULATE: Used to apply additional filters and modify the context of the calculation.
-SUM: To calculate total sums for various metrics like deposits and properties.
-AVERAGE: To find the average values, such as average income or average number of properties owned.
-FILTER & RELATEDTABLE: To apply custom filters to related tables for accurate segmentations.
-SUMMARIZE/SUMMARIZECOLUMNS: For creating summary tables for client loyalty classifications and income segmentation.
-SQRT and DIVIDE: Used to compute correlations between different financial variables.
+**CALCULATE: Used to apply additional filters and modify the context of the calculation.
+**SUM: To calculate total sums for various metrics like deposits and properties.
+**AVERAGE: To find the average values, such as average income or average number of properties owned.
+**FILTER & RELATEDTABLE: To apply custom filters to related tables for accurate segmentations.
+**SUMMARIZE/SUMMARIZECOLUMNS: For creating summary tables for client loyalty classifications and income segmentation.
+**SQRT and DIVIDE: Used to compute correlations between different financial variables.
 
 **🎯 Key Takeaways**
 The project highlights critical customer metrics, such as income distribution, credit card balances, and deposits.
