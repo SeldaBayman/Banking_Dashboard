@@ -1,11 +1,15 @@
 # Banking Data Analysis Project | Power BI
 
-![Banking Analysis](https://example.com/your-image.png)
+![customer_income_2](https://github.com/user-attachments/assets/8779aa12-e863-4fb2-9ee4-381c2cc3c9e1)
+
 
 ## 🚀 Overview
 Welcome to the **Banking Data Analysis Project**! In this project, we dive deep into a banking dataset using **Power BI** to generate meaningful insights, including customer behaviors, financial patterns, and key performance indicators (KPIs) for the banking industry.
 
 Through this analysis, we explore key client demographics, such as gender and loyalty classification, as well as significant financial metrics like bank deposits, credit card balances, and risk weightings. The ultimate goal is to provide actionable insights for better business decision-making and targeted customer strategies.
+
+![loan_risk_report](https://github.com/user-attachments/assets/47133858-c0db-464d-a3b8-947a15a502df)
+
 
 ## 📊 Dataset Overview
 The dataset contains critical information about clients and their banking relationships, covering various aspects of income, property ownership, risk levels, and deposits. Below is a quick look at the data columns:
@@ -25,6 +29,9 @@ The dataset contains critical information about clients and their banking relati
 - **Risk Weighting**: The calculated risk profile for each client based on their financial behavior and history.
 - **Banking Relationship**: Type of banking relationship (e.g., personal, corporate, etc.).
 The data spans multiple years, providing a comprehensive look at how clients’ financial behaviors evolve over time.
+
+![advisor_report](https://github.com/user-attachments/assets/103e2632-d4f2-46c2-ae15-54cf677bce92)
+
 
 ## 💡 Key Insights & Reports
 
