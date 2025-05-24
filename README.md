@@ -2,8 +2,7 @@
 
 ![banking_summary](https://github.com/user-attachments/assets/2bc85662-cfb2-4104-b418-deba3797c71b)
 
-
-![customer_income_2](https://github.com/user-attachments/assets/8779aa12-e863-4fb2-9ee4-381c2cc3c9e1)
+![banking1](https://github.com/user-attachments/assets/1266b59f-eacc-4b70-b665-83c50d180b6f)
 
 
 ## 🚀 Overview
